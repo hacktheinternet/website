@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f1235c5.chunk.css",
+    "main.js": "/static/js/main.35db65b6.chunk.js",
+    "main.js.map": "/static/js/main.35db65b6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a2fac6e4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a2fac6e4.js.map",
+    "static/js/2.2a7a986d.chunk.js": "/static/js/2.2a7a986d.chunk.js",
+    "static/js/2.2a7a986d.chunk.js.map": "/static/js/2.2a7a986d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4f1235c5.chunk.css.map": "/static/css/main.4f1235c5.chunk.css.map",
+    "static/js/2.2a7a986d.chunk.js.LICENSE.txt": "/static/js/2.2a7a986d.chunk.js.LICENSE.txt",
+    "static/media/accessories.f9ecd101.svg": "/static/media/accessories.f9ecd101.svg",
+    "static/media/airline.dd6c0966.svg": "/static/media/airline.dd6c0966.svg",
+    "static/media/car.594d1297.svg": "/static/media/car.594d1297.svg",
+    "static/media/Resources.css": "/static/media/card1.872e233b.svg",
+    "static/media/chat.794c645b.svg": "/static/media/chat.794c645b.svg",
+    "static/media/energy.c867c65a.svg": "/static/media/energy.c867c65a.svg",
+    "static/media/entertainment.12c31701.svg": "/static/media/entertainment.12c31701.svg",
+    "static/media/experience.20d058bc.svg": "/static/media/experience.20d058bc.svg",
+    "static/media/food.ddd8959a.svg": "/static/media/food.ddd8959a.svg",
+    "static/media/healthcare.80b19da4.svg": "/static/media/healthcare.80b19da4.svg",
+    "static/media/invest-style.3b717ca2.svg": "/static/media/invest-style.3b717ca2.svg",
+    "static/media/logo-light.af4b7dec.png": "/static/media/logo-light.af4b7dec.png",
+    "static/media/pharma.5c51a55b.svg": "/static/media/pharma.5c51a55b.svg",
+    "static/media/technology.b53b121f.svg": "/static/media/technology.b53b121f.svg",
+    "static/media/user1.5d5f78e7.svg": "/static/media/user1.5d5f78e7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2fac6e4.js",
+    "static/js/2.2a7a986d.chunk.js",
+    "static/css/main.4f1235c5.chunk.css",
+    "static/js/main.35db65b6.chunk.js"
+  ]
+}
