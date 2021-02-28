@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.4d8d06a8.chunk.css",
-    "main.js": "/static/js/main.acf455e3.chunk.js",
-    "main.js.map": "/static/js/main.acf455e3.chunk.js.map",
+    "main.js": "/static/js/main.bd7883af.chunk.js",
+    "main.js.map": "/static/js/main.bd7883af.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a2fac6e4.js",
     "runtime-main.js.map": "/static/js/runtime-main.a2fac6e4.js.map",
     "static/js/2.c1b4110e.chunk.js": "/static/js/2.c1b4110e.chunk.js",
@@ -24,6 +24,7 @@
     "static/media/food.ddd8959a.svg": "/static/media/food.ddd8959a.svg",
     "static/media/healthcare.80b19da4.svg": "/static/media/healthcare.80b19da4.svg",
     "static/media/invest-style.3b717ca2.svg": "/static/media/invest-style.3b717ca2.svg",
+    "static/media/jace.a956a6d3.jpg": "/static/media/jace.a956a6d3.jpg",
     "static/media/logo-light.af4b7dec.png": "/static/media/logo-light.af4b7dec.png",
     "static/media/pharma.5c51a55b.svg": "/static/media/pharma.5c51a55b.svg",
     "static/media/technology.b53b121f.svg": "/static/media/technology.b53b121f.svg",
@@ -36,6 +37,6 @@
     "static/js/runtime-main.a2fac6e4.js",
     "static/js/2.c1b4110e.chunk.js",
     "static/css/main.4d8d06a8.chunk.css",
-    "static/js/main.acf455e3.chunk.js"
+    "static/js/main.bd7883af.chunk.js"
   ]
 }
