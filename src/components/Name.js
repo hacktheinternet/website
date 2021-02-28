@@ -13,7 +13,7 @@ const Name = () => {
         <input
           type="text"
           className="search-input"
-          placeholder="Search"
+          placeholder="John Doe"
           value={name}
           onChange={(e) => onChange(e.target.value)}
           autoFocus

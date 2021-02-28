@@ -35,6 +35,7 @@ class Type extends React.Component {
   render() {
     return (
       <div className="App">
+        <img src={InvestStyle} alt="Style" />
         <h1> Select your investment style: </h1>
         <input
           type="checkbox"

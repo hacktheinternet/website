@@ -36,10 +36,13 @@
   --sub-1: #5f7bf6;
   --sub-2: #8565f2;
   --gradient: linear-gradient(106.31deg, #269bfb 0%, #8565f2 98.82%);
+  --dark: #333;
+  --text: #000;
+  --bg: whitesmoke;
 }
 
 body {
-  background: whitesmoke;
+  background: var(--bg);
   margin: 0;
   padding: 0;
 }
@@ -47,7 +50,7 @@ body {
 .App {
   font-family: "Acumin Pro", sans-serif;
   text-align: center;
-  color: #333;
+  color: var(--dark);
 }
 
 .logo {
@@ -62,7 +65,7 @@ body {
   padding-bottom: 1vh;
   margin-bottom: 4vh;
   background: var(--gradient);
-  color: white;
+  color: var(--foreground);
   text-align: left;
   font-size: 2em;
   padding-left: 20vw;
@@ -72,6 +75,33 @@ body {
   justify-content: center;
   margin-left: auto;
   margin-right: auto;
+}
+
+.lb {
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  margin-top:4vh;
+  margin-bottom: 4vh;
+  background: var(--gradient);
+  color: var(--foreground);
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.ft {
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  margin-top:4vh;
+  background: var(--gradient);
+  color: var(--foreground);
+  text-align: center;
+  font-size: 1em;
 }
 
 .login label {
@@ -85,7 +115,7 @@ body {
 }
 
 .login a:not(.submit) {
-  color: #333;
+  color: var(--dark);
   text-decoration: none;
   position: relative;
   font-size: 12px;
@@ -102,7 +132,7 @@ body {
 }
 
 .login a:not(.submit):hover {
-  color: #333;
+  color: var(--dark);
   text-decoration: underline;
   position: relative;
   font-size: 12px;

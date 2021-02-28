@@ -1,6 +1,7 @@
 import React from "react";
 import ExperienceCenter from "./ExperienceCenter";
 import Navbar from "./Navbar";
+import Why from "./Why";
 import "../css/Home.css";
 
 const Home = () => {
@@ -8,6 +9,7 @@ const Home = () => {
     <>
       <Navbar />
       <ExperienceCenter />
+<Why />
     </>
   );
 };

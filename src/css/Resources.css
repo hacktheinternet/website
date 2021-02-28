@@ -1,12 +1,23 @@
 * {
-  background: #000000;
-  color: #ffffff;
+--bg: #000;
+--text: #fff;
 }
 
-h2 {
-  color: #ffffff;
+body {
 }
+/* see helmet */
+
+h2,
+h5,
+p {
+} /* see helmet*/
 
 .card {
-
+  background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.66) 2.08%,
+      rgba(255, 255, 255, 0.71) 100%
+    ),
+    url(card1.svg);
+  border-radius: 10px;
 }
