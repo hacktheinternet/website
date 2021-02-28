@@ -1,0 +1,34 @@
+h2 {
+  font-size: 2em;
+  color: black;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin: 20px;
+  font-size: 1.5em;
+}
+
+.preli li:before {
+  font-family: "Font Awesome 5 Free";
+  content: "□";
+  display: inline-block;
+  padding-right: 3px;
+  position: relative;
+  top: -4px;
+  vertical-align: middle;
+  font-weight: 900;
+}
+
+.preli li:hover:before {
+  content: "\f14a";
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+}
