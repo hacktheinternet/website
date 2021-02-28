@@ -54,7 +54,7 @@ class Type extends React.Component {
           })}
         </ul>
         <div class="login center">
-          <Button component={Link} to="/">
+          <Button component={Link} to="/industries">
             Click Me
           </Button>
         </div>

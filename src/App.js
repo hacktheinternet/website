@@ -7,6 +7,7 @@ import Level from "./components/Level";
 import Login from "./components/Login";
 import Resources from "./components/Resources";
 import Type from "./components/Type";
+import Industries from "./components/Industries";
 
 export default function App() {
   return (
@@ -20,9 +21,9 @@ export default function App() {
           <Route path="/setlevel/:value" exact component={Level} />
           <Route path="/guides" exact component={Resources} />
           <Route path="/type" exact component={Type} />
+          <Route path="/industries" exact component={Industries} />
         </Switch>
       </Router>
     </div>
   );
 }
-
